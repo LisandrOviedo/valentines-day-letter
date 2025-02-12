@@ -126,7 +126,7 @@ function App() {
       </div>
 
       <footer className="pb-[15vh] sm:pb-[5vh] text-sm sm:text-base">
-        Hecho por{" "}
+        Hecho con ❤️ por{" "}
         <a
           href="https://github.com/LisandrOviedo"
           className="text-red-600 hover:text-red-500"
