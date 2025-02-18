@@ -204,7 +204,7 @@ function App() {
           {page === 2 && (
             <>
               <p className="text-center">
-                A los largos de estos años he aprendido mucho de ti y tú de mí.
+                A lo largo de estos años he aprendido mucho de ti y tú de mí.
                 Hemos pasado muchos bonitos y no tan bonitos momentos, pero a
                 pesar de todo, seguimos aquí, haciendo valer más el amor que la
                 adversidad. Por eso, en un día como hoy, celebro tener un amor
@@ -220,7 +220,7 @@ function App() {
           {page === 3 && (
             <>
               <span className="text-center">
-                Hoy quiero decirte, que eres una persona fundamental para mí y
+                Hoy, quiero decirte, que eres una persona fundamental para mí y
                 te doy las gracias por estar ahí para mi sin importar el cuándo
                 y el qué.
               </span>
